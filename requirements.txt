@@ -1,0 +1,4 @@
+flask
+pymssql
+render-templates
+requests
